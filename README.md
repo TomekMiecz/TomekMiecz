@@ -1,46 +1,15 @@
-# 👨🏻‍💻 Jakub Krajewski
+# 👨🏻‍💻Tomasz Mieczkowski
+Jestem początkującym programistą Python, który postanowił zamienić pasję do technologii w ścieżkę zawodową. Uczę się codziennie — na kursach, z dokumentacji, przez praktykę i własne projekty.
+### 🛠️ **Technologie i narzędzia, z których korzystam:**
+![enter image description here](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white) ![enter image description here](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white) ![enter image description here](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white) ![enter image description here](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white) ![enter image description here](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
-**Python Engineer and AI enthusiast, mathematics and programming tutor. I'm perfecting my craft, one project at a time.** 
+![enter image description here](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white) ![enter image description here](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black) ![enter image description here](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white) ![enter image description here](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
-Python software engineer. I possess fluency in numerous Python libraries and stay current with the ever-evolving Python ecosystem. I'm really good at listening and talking with my peers. I like writing things down to help myself understand stuff better. I'm also super curious and can learn new things really quickly. I'm always excited to learn more.
+### 📁 Moje projekty:
 
-### 🧰 Languages and Tools
+ - 
 
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-                    
-<br><br>
+### 📫 Kontakt:
 
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-          
-<br><br>
-
-### 🌐 Connect with Me
-<a href="https://www.linkedin.com/in/jakubpkrajewski/" target="_blank">
-  <img align='left' style='width:45px; padding-right:10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
-<a href="https://jakubkrajewski.substack.com/" target="_blank">
-  <img align='left' style='width:45px; padding-right:10px' src="https://images.prismic.io/sacra/862ed108-b61e-4203-9cc8-61481f745ec8_ba81cfff-7bc5-4aef-866e-864d0942c42d_1000x1000.png?auto=compress,format" />
-</a>
-
-<br><br>
-
-### Certificates
-Profile: https://www.credly.com/users/jakub-krajewski.e696c382
-- AWS Certified AI Practitioner Early Adopter
-- AWS Certified Cloud Practitioner 
-- CCNA: Introduction to Networks
+ - 💼 [LinkedIn](https://www.linkedin.com/in/tomek-mieczkowski-14b6b625b/)
+ - 📧 Email : tomek.miecz@gmail.com
