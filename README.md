@@ -11,5 +11,5 @@ Jestem początkującym programistą Python, który postanowił zamienić pasję 
 
 ### 📫 Kontakt:
 
- - 💼 [LinkedIn](https://www.linkedin.com/in/tomek-mieczkowski-14b6b625b/)
+ - 💼 [LinkedIn](www.linkedin.com/in/tomaszmieczkowski1)
  - 📧 Email : tomek.miecz@gmail.com
